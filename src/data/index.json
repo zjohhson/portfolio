@@ -1,0 +1,79 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/neuralnetwork.png",
+      "title": "AI/NLP Engineering",
+      "description": "Hands on experience with classic ML models, deep learning models, and LLMs through my research and coursework. Experienced with frameworks such as PyTorch and TensorFlow."
+    },
+    {
+      "id": "2",
+      "src": "./img/product-chain-1.png",
+      "title": "Software Development",
+      "description": "Professional experience as a full-time Software Engineer in a Big Tech company setting. Experienced in full-stack development, web development, database management, data structures, and algorithms."
+    },
+    {
+      "id": "3",
+      "src": "./img/research.png",
+      "title": "Research",
+      "description": "Currently engaged in hands-on graduate NLP research. Machine learning/Computer Vision research experience from past internships. Experience presenting research at conferences (Computation Approaches for Cancer Workshop, 2021)."
+    },
+    {
+      "id": "4",
+      "src": "./img/collab.png",
+      "title": "Collaboration",
+      "description": "Experience cross-cutting across teams and working with wide range of Senior Developers, Managers, PMs, and customers to create software solutions. I love working with others and do best in a collaborative team environment!"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/ChatNYTdemo.gif",
+      "route": "./ChatNYT",
+      "title": "ChatNYT",
+      "description": "A ChatGPT-assisted iteration of everybody's favorite (and most frustrating) NYT game, Wordle.",
+      "link": "View In Github",
+      "URL": "https://github.com/zjohhson/ChatNYT"
+    },
+    {
+      "id": "3",
+      "src": "./img/white.png",
+      "route": "/Jailbreak",
+      "title": "Generative Adversarial Learning for Automatic Red-Teaming against LargeLanguage Model Jailbreak Attacks",
+      "description": "MIT Master's of Engineering Thesis Project. Exploring using a GAN architecture to automatically generate jailbreak prompts to better defend against LLM attacks."
+    },
+    {
+      "id": "2",
+      "src": "./img/jpl.png",
+      "route": "/JPL",
+      "title": "NASA JPL Research Project: Deep Learning for Segmenting Cell Nuclei in Multiplexed Images",
+      "description": "Improving upon State of The Art detection models for cell nuclei by creating our own computer vision network."
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
