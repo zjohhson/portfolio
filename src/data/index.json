@@ -37,10 +37,10 @@
     },
     {
       "id": "3",
-      "src": "./img/white.png",
+      "src": "./img/GAN.png",
       "route": "/Jailbreak",
-      "title": "Generative Adversarial Learning for Automatic Red-Teaming against LargeLanguage Model Jailbreak Attacks",
-      "description": "MIT Master's of Engineering Thesis Project. Exploring using a GAN architecture to automatically generate jailbreak prompts to better defend against LLM attacks."
+      "title": "Generative Adversarial Learning for Automatic Red-Teaming against Large Language Model Jailbreak Attacks",
+      "description": "Exploring using a GAN architecture to automatically generate jailbreak prompts to better defend against LLM attacks."
     },
     {
       "id": "2",
@@ -48,6 +48,13 @@
       "route": "/JPL",
       "title": "NASA JPL Research Project: Deep Learning for Segmenting Cell Nuclei in Multiplexed Images",
       "description": "Improving upon State of The Art detection models for cell nuclei by creating our own computer vision network."
+    },
+    {
+      "id": "4",
+      "src": "./img/metrics.png",
+      "route": "/NLP",
+      "title": "Measuring Political Sentiment in Tweets through Weighted Hashtag Analysis",
+      "description": "Improving Political Sentiment Analysis performance by allocating a custom weighting to embeddings of hashtagged phrases."
     }
   ],
   "testimonial": [

@@ -7,6 +7,7 @@ import Testimonial from "./Pages/Home/Testimonials";
 import ChatNYT from "./Pages/Home/ChatNYT";
 import JPL from "./Pages/Home/JPL";
 import Jailbreak from "./Pages/Home/Jailbreak";
+import NLPProject from "./Pages/Home/NLPProject";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
             <Route path="/ChatNYT" element={<ChatNYT/>}></Route>
             <Route path="/JPL" element={<JPL/>}></Route>
             <Route path="/Jailbreak" element={<Jailbreak/>}></Route>
+            <Route path="/NLP" element={<NLPProject/>}></Route>
           </Routes>
         </div>
       </Router>

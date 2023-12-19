@@ -11,9 +11,11 @@ export default function Jailbreak() {
         <div >
           <div style={{display: "flex", justifyContent: "center",background: '#E5F3FD', padding: '30px'}}>
             {/* <p className="section--title">About</p> */}
-            <h2>Generative Adversarial Learning for Automatic Red-Teaming against LargeLanguage Model Jailbreak Attacks</h2>
+            <h2>Generative Adversarial Learning for Automatic Red-Teaming against Large Language Model Jailbreak Attacks</h2>
             </div>
             <div style={{textAlign: 'center', background: '#E5F3FD', padding: '30px'}}>
+            <h3>See full project proposal <a href='https://drive.google.com/file/d/1A7fVwS_VQZAYP8dN3wMqcdA_pfkH1IyH/view?usp=sharing'>here</a>.</h3>
+            <br></br>
             <p>Jailbreaking’ Large Language Models (LLMs) — feeding in prompts that bypass the model’s safety
 guardrails and cause it to produce a harmful output — is a critical safety issue impacting the world of
 Generative AI, and yet is impossible to avoid completely due to its dynamic nature. While popular Generative
