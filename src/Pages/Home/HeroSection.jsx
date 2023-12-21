@@ -43,7 +43,7 @@ export default function HeroSection() {
   <Link  href='mailto:zjohnson@mit.edu' style={{color: '#393d76'}}>
     <EmailIcon style={{maxWidth: '40px', maxHeight: '40px', minWidth: '40px', minHeight: '40px'}}/>
   </Link>
-  <Link  href='https://drive.google.com/file/d/1MptfmO8aXPY5lGrYerOsfViF_G6UuNn4/view?usp=sharing' style={{color: '#5A5A5A'}} target="_blank">
+  <Link  href='https://drive.google.com/file/d/1_kpj4fKEYUMAeXQNuEOjI4XoLrRwywTW/view?usp=sharing' style={{color: '#5A5A5A'}} target="_blank">
     <AssignmentIcon style={{maxWidth: '40px', maxHeight: '40px', minWidth: '40px', minHeight: '40px'}}/>
   </Link>
 </div>
